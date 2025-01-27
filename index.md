@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: slay queen
 ---
-
+this is a homepage :)
